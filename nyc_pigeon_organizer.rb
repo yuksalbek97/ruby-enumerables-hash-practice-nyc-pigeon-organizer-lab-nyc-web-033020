@@ -1,6 +1,7 @@
 require "pry"
-binding.pry
+#binding.pry
 def nyc_pigeon_organizer(data)
+  binding.pry
   pigeon_list = {}
   
   
